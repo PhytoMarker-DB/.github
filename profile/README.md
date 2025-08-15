@@ -1,10 +1,8 @@
-# PhytoMarker-DB
+# PhytoMarker-DB : Base de Données pour l'Association Génotype-Phénotype
 
-Bienvenue dans l'organisation GitHub du projet **PhytoMarker-DB**.
+PhytoMarker-DB est une application web full-stack conçue pour les généticiens, les chercheurs et les techniciens en amélioration des plantes. Elle offre une plateforme centralisée et sécurisée pour stocker, gérer et analyser des données de phénotypage et de génotypage, dans le but de découvrir des corrélations et d'accélérer les programmes de sélection variétale.
 
-## Mission
-
-Mon objectif est de remplacer les fichiers Excel épars par une plateforme web unifiée, ergonomique et performante pour centraliser et analyser des données génétiques végétales (phénotypes, génotypes, pedigrees).
+L'application met l'accent sur un moteur de recherche, des outils de visualisation de données (tels que les arbres généalogiques) et un système d'accès sécurisé basé sur les rôles.
 
 ## Dépôts Principaux
 
